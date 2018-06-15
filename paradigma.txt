@@ -1,0 +1,74 @@
+¿La Programación Orientada a Objetos es un paradigma o una Técnica? 
+
+Para comenzar definiré los términos paradigma y técnica. 
+
+Técnicas:  Conjunto de procedimientos o recursos que se usan en un arte o una ciencia. 
+
+Paradigma: Ejemplo o modelo de algo, antiguamente significaba patrón. 
+
+ 
+
+     Las técnicas en programación se centran en programación modular y programación estructurada. La programación estructurada utiliza un número límitado de estructuras
+de control, reduciendo los errores, indican que las instrucciones del programa se ejecutan una después de la otra, en el mismo oreden que aparecen en el programa, con 
+estructuras repetitivas (iterativa) y estructuras selectivas (estructuras de verdadero/falso). 
+
+     La programación estructurada es una técnica de programación que consiste en construir programas de fácil compresión, es mucho mas sencillo entender la codificación
+del programa que se habrá hecho en diferentes secciones. 
+Paradigma imperativo: Son aquellos que facilitan los cálculos por medio de cambios de estado, entendiendo como estado la condición de una memoria de almacenamiento. 
+Los lenguajes estructurados en bloques, se refieren a los ámbitos anidados, es decir los bloques pueden estar anidados dentro de otros bloques y contener sus propias
+variables.
+
+     Los programas escritos en un lenguaje funcional están constituidos únicamente por definiciones de funciones, entendiendo éstas no como subprogramas clásicos de un 
+lenguaje imperativo, sino como funciones puramente matemáticas, en las que se verifican ciertas propiedades como la ''transparencia referencial'' (el significado de 
+una expresión depende únicamente del significado de sus subexpresiones), y por tanto, la carencia total de ''efectos laterales''.
+
+     El objetivo es conseguir lenguajes expresivos y ''matemáticamente elegantes'', en los que no sea necesario bajar al nivel de la máquina para describir el proceso 
+llevado a cabo por el programa, y evitando el concepto de ''estado'' del cómputo.
+
+     La secuencia de computaciones llevadas a cabo por el programa se regiría única y exclusivamente por la ''reescritura'' de definiciones más amplias a otras cada vez más
+concretas y definidas, usando lo que se denominan ''definiciones dirigidas''.
+A este tipo de paradigma de programación se le suele llamar algorítmico
+
+     Otras características propias de estos lenguajes son la no existencia de asignaciones de variables y la falta de construcciones estructuradas como la secuencia o 
+la iteración (lo que obliga en la práctica a que todas las repeticiones de instrucciones se lleven a cabo por medio de funciones recursivas).
+
+
+
+
+ 
+     El paradigma en programación orientado a objetos es un modelo básico de diseño y desarrollo de programas, que permite hacer dichos programas con un conjunto de 
+normas especificas, como estructuras modulares, fuerte cohesión y alta rentabilidad. 
+Los paradigmas pueden ser considerados como patrones de pensamiento para la resolución de problemas.
+
+Las principales diferencias entre la programación imperativa y la orientada a objetos son:
+
+     La programación orientada a objetos es más moderna, es una evolución de la programación imperativa que plasma en el diseño de una familia de lenguajes conceptos
+que existían previamente con algunos nuevos.
+
+     La programación orientada a objetos se basa en lenguajes que soportan sintáctica y semánticamente la unión entre los tipos abstractos de datos y sus operaciones 
+(a esta unión se la suele llamar clase).
+
+La programación orientada a objetos incorpora en su entorno de ejecución mecanismos tales como el polimorfismo y el envío de mensajes entre objetos.
+
+
+ 
+
+      En conclusión  la Programación Orientada a Objetos es un paradigma de programación que usa técnicas de programacion estructurada en los metodos de cada objeto 
+y que define los programas en términos de "clases de objetos", objetos que son entidade que combinan estado (datos),  comportamiento (métodos) e identidad 
+(propiedad del objeto que lo diferencia del resto).  De esta forma, un objeto contiene toda la información, ( atributos) que permite definirlo e identificarlo 
+frente a otros objetos pertenecientes a otras clases. A su vez, dispone de mecanismos de interacción (métodos) que favorecen la comunicación entre objetos y 
+en consecuencia, el cambio de estado en los propios objetos. 
+
+ 
+
+Bibliografía: 
+
+http://prezi.com 
+
+www.monografías.com  
+
+https://www.google.hn/search?q=paradigma 
+
+https://www.google.hn/search?q=tecnica 
+
+https://es.wikipedia.org 
